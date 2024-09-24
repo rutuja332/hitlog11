@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # langchain-Ollama-Chainlit
 
 Simple Chat UI as well as chat with documents using LLMs with Ollama (mistral model) locally, LangChaiin and Chainlit
@@ -67,3 +68,6 @@ cd langchain-ollama-chainlit
    ---
 ## Disclaimer
 This is test project and is presented in my youtube video to learn new stuffs using the openly available resources (models, libraries, framework,etc). It is not meant to be used in production as it's not production ready. You can modify the code and use for your usecases !!
+=======
+# hitlog11
+>>>>>>> 4ace1a706dacbb6c2ae0756e6a2de4d0e93eab38
