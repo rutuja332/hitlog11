@@ -55,7 +55,7 @@ cd langchain-ollama-chainlit
    ---
     ```
    # Example 2
-   python3 ingest.py
+    
    chainlit run main.py
    ```
    ---
