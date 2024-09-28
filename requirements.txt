@@ -5,3 +5,5 @@ PyPDF2
 pypdf
 chromadb
 langchainhub
+gradio
+python-dotenv

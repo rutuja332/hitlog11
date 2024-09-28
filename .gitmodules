@@ -1,0 +1,3 @@
+[submodule "hitlangapp"]
+	path = hitlangapp
+	url = https://huggingface.co/spaces/rutujagdale33/hitlangapp
