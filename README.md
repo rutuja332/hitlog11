@@ -51,7 +51,7 @@ cd hitlog11
 5. Run the following command in your terminal to start the chat UI:
    ```
  
-   chainlit run main.py -w
+   chainlit run app.py -w
    ```
   
 
