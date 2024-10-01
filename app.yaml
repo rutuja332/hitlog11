@@ -1,0 +1,7 @@
+version: '1.0'
+services:
+  web:
+    image: image: python:3.10
+    ports:
+      - "80:80"
+   
